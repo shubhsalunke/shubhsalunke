@@ -1,4 +1,4 @@
-# ☀️ Shubham Salunke | DevOps Engineer 🚀
+# ❄️ Shubham Salunke | DevOps Engineer 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shubhsalunke&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -22,18 +22,18 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 months of hands-on production experience in designing, automating, and managing scalable cloud infrastructure across AWS and Azure.
 
-- 🔭 **Career Objective**: Active candidate seeking **DevOps / Cloud Engineer** roles across India.
-- 💡 **DevOps Transition**: Supplemented a Commerce background with intensive, self-directed study in cloud architecture, Linux systems administration, and infrastructure automation.
-- 🛠️ **Areas of Expertise**: Infrastructure as Code (IaC), containerization, CI/CD pipeline automation, and system observability.
-- 💬 **Ask Me About**: Terraform, Ansible, Docker, Nginx, Prometheus, Grafana, AWS & Azure.
+- **Career Objective**: Active candidate seeking **DevOps / Cloud Engineer** roles across India.
+- **DevOps Transition**: Supplemented a Commerce background with intensive, self-directed study in cloud architecture, Linux systems administration, and infrastructure automation.
+- **Areas of Expertise**: Infrastructure as Code (IaC), containerization, CI/CD pipeline automation, and system observability.
+- **Ask Me About**: Terraform, Ansible, Docker, Nginx, Prometheus, Grafana, AWS & Azure.
 
 ---
 
-### 📊 Metrics & Key Achievements
+### Metrics & Key Achievements
 
 <table align="center" width="100%">
   <tr>
@@ -58,7 +58,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 
 ---
 
-### ⚙️ Skills & Tools
+### Skills & Tools
 
 #### ☁️ Cloud Platforms
 <p align="left">
@@ -73,7 +73,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 - **AWS (Advanced)**: EC2, VPC, Subnets, Route Tables, S3, IAM, ALB, Auto Scaling, CloudWatch
 - **Azure**: Virtual Machines (VM), Virtual Networks (VNet), Network Security Groups (NSG), Storage Accounts, Key Vault
 
-#### 🛠️ Infrastructure as Code & Containerization
+#### Infrastructure as Code & Containerization
 <p align="left">
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" title="Terraform">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40" style="margin-right: 10px;"/>
@@ -92,7 +92,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 - **IaC & Config Management**: Terraform, Ansible
 - **Containerization & VCS**: Docker, Docker Compose, Git, GitHub Actions
 
-#### 🚦 Networking, Observability & Databases
+#### Networking, Observability & Databases
 <p align="left">
   <a href="https://nginx.org" target="_blank" rel="noreferrer" title="NGINX">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="margin-right: 10px;"/>
@@ -125,9 +125,9 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 
 
 
-### 🚀 Projects
+### Projects
 
-#### 🌐 Multi-Application Production Deployment
+#### Multi-Application Production Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -137,18 +137,18 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
   <img src="https://img.shields.io/badge/DNS%20Routing-2C3E50?style=flat-square" alt="DNS Routing" />
 </p>
 
-- 🎯 **Objective**: Architect and deploy a robust multi-tenant production environment on a live Linux node to support multiple international applications simultaneously.
-- 🏗️ **Containerized Infrastructure**: Engineered a scalable Docker-based architecture to isolate applications, reducing runtime errors by 35% and streamlining service provisioning.
-- 🌐 **Global Routing & Security**: Configured Nginx as a reverse proxy to route and optimize traffic securely across three global domains:
+- **Objective**: Architect and deploy a robust multi-tenant production environment on a live Linux node to support multiple international applications simultaneously.
+- **Containerized Infrastructure**: Engineered a scalable Docker-based architecture to isolate applications, reducing runtime errors by 35% and streamlining service provisioning.
+- **Global Routing & Security**: Configured Nginx as a reverse proxy to route and optimize traffic securely across three global domains:
   - 🇺🇸 `Shaqonet.com` (U.S.A.)
   - 🇮🇳 `Ixp.veriton.tech` (India)
   - 🇸🇦 `eye-isr.com` (Saudi Arabia)
-- 💾 **Centralized Data Management**: Installed, tuned, and optimized a unified MySQL database cluster to handle relational storage for all microservices.
-- 📈 **Business Impact**: Guaranteed **99.9% uptime** and achieved strict environment isolation, mitigating cross-application interference.
+- **Centralized Data Management**: Installed, tuned, and optimized a unified MySQL database cluster to handle relational storage for all microservices.
+- **Business Impact**: Guaranteed **99.9% uptime** and achieved strict environment isolation, mitigating cross-application interference.
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 - 🎓 **Introduction to DevOps**  
   <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" /> <img src="https://img.shields.io/badge/DevOps-Microsoft-blueviolet?style=flat-square" alt="Microsoft DevOps" /> <img src="https://img.shields.io/badge/Date-April%202026-gray?style=flat-square" alt="April 2026" />
@@ -161,7 +161,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=shubhsalunke&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub stats" width="48%" />
@@ -174,7 +174,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="left">
   <a href="mailto:shubhsalunke01@gmail.com">
@@ -194,5 +194,5 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 ---
 
 <p align="center">
-  <i>"Automate what you can, scale what you build, and never stop learning."</i> 🚀
+  <i>"Automate what you can, scale what you build, and never stop learning."</i> 
 </p>
