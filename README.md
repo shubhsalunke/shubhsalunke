@@ -194,5 +194,5 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 ---
 
 <p align="center">
-  <i>"Automate what you can, scale what you build, and never stop learning."</i> 
+  <i>"Great infrastructure is invisible when everything works and invaluable when it doesn't."</i> 
 </p>
