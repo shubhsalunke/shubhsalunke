@@ -63,7 +63,7 @@ Hi there! I'm **Shubham Salunke** — a results-driven DevOps Engineer with 8 mo
 #### ☁️ Cloud Platforms
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="Amazon Web Services">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60" style="margin-right: 15px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60" style="margin-right: 15px;"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer" title="Microsoft Azure">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50" style="margin-right: 15px;"/>
